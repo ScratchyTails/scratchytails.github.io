@@ -1,0 +1,2 @@
+# scratchytails.github.io
+blog
